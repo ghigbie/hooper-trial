@@ -1,6 +1,6 @@
 <template>
     <div class="hooper-test">
-
+        
     </div>
 </template>
 
@@ -10,7 +10,7 @@ import  { Hooper,
           Pagination, 
           Navigation,
           Progress } from 'hooper';
-          
+
 export default {
     name: 'HooperTest',
     components: {
